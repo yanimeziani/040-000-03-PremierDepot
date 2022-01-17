@@ -17,4 +17,3 @@
 
  - [ ] La machine virtuelle
  - [ ] Votre ordinateur personnel
- 
