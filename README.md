@@ -8,7 +8,7 @@
  Cochez les activités que vous avez réalisées avant de vous rendre ici (Pour cocher une activité, remplacez [ ] par [x]) :
 
  - [x] Installer les outils de développement
- - [x] Pester contre Windows 10
+ - [x] Pester contre Windows 11
  - [x] Prendre une pause
  - [x] Faire un peu de social
  - [x] Poser des questions
